@@ -1,0 +1,17 @@
+# Ignore build artifacts
+/Library/
+/Logs/
+
+# Ignore project-specific files
+/ProjectSettings/
+/UserSettings/
+
+# Ignore system files
+.DS_Store
+*.log
+
+# Ignore IDE files
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
