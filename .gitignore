@@ -1,17 +1,17 @@
-# Ignore build artifacts
-/Library/
-/Logs/
-
-# Ignore project-specific files
-/ProjectSettings/
-/UserSettings/
-
-# Ignore system files
-.DS_Store
-*.log
-
-# Ignore IDE files
-*.sublime-project
-*.sublime-workspace
-*.vscode/
-
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Aa]ssets/StreamingAssets/*.bin
+[Aa]ssets/StreamingAssets/*.dat
+[Aa]ssets/StreamingAssets/*.pdb
+[Aa]ssets/StreamingAssets/*.dll
+[Aa]ssets/StreamingAssets/*.mem
+[Aa]ssets/StreamingAssets/*.json
+[Aa]ssets/StreamingAssets/*.so
+[Aa]ssets/StreamingAssets/*.xml
+[Aa]ssets/StreamingAssets/*.webp
+[Aa]ssets/StreamingAssets/*.wasm
