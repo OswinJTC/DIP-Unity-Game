@@ -1,0 +1,4 @@
+repository "im3180_interior@xlim054@cloud"
+  path "/"
+    br "/main"
+    co "/main"
